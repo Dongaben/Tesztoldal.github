@@ -1,2 +1,0 @@
-# Tesztoldal.github
-Demo pages
